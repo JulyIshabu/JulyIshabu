@@ -1,7 +1,7 @@
 - 👋 Hi, I’m July;
 - 👀 I like books, coffee and rainy days;
 - 🌱 I’m currently learning Linux, Java and Arabic;
-- 😄 Pronouns: they/she;
+- 😄 Pronouns: they/she.
 
 <!---
 JulyIshabu/JulyIshabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
