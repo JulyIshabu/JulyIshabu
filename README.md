@@ -1,5 +1,5 @@
 - 👋 Hi, I’m July;
-- 👀 I like books, coffe and rainy days;
+- 👀 I like books, coffee and rainy days;
 - 🌱 I’m currently learning Linux, Java and Arabic;
 - 😄 Pronouns: they/she;
 
