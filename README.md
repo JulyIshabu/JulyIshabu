@@ -1,6 +1,6 @@
 - 👋 Hi, I’m July;
 - 👀 I like books, coffee and rainy days;
-- 🌱 I’m currently learning Python, Java and Arabic;
+- 🌱 I’m currently learning front-end bases and Python;
 - 😄 Pronouns: she/they.
 
 <!---
